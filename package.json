@@ -1,0 +1,37 @@
+{
+  "name": "mc",
+  "version": "1.0.0",
+  "description": "Node",
+  "main": "websocketMainServer.js",
+  "dependencies": {
+    "ws": "^0.4.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node websocketMainServer.js",
+    "test": "node websocketMainServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Betavius/MCFirstWorks.git"
+  },
+  "dependencies": {
+    "ejs": "2.5.6",
+    "express": "4.15.2"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+	"express"
+  ],
+  "author": "Betavius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Betavius/MCFirstWorks/issues"
+  },
+  "homepage": "https://github.com/Betavius/MCFirstWorks#readme"
+}
