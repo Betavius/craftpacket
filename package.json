@@ -1,4 +1,12 @@
 {
+  "scripts": {
+    "start": "export NODE_ENV=prod && nodemon ./index.js",
+    "windev": "set NODE_ENV=dev && nodemon ./index.js",
+    "dev": "export NODE_ENV=dev && nodemon ./index.js",
+    "prod": "export NODE_ENV=prod && nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },	
+
   "name": "mc",
   "version": "1.0.0",
   "description": "Node",
@@ -35,11 +43,3 @@
   },
   "homepage": "https://github.com/Betavius/craftpacket#readme"
 }
-
-"scripts": {
-    "start": "export NODE_ENV=prod && nodemon ./index.js",
-    "windev": "set NODE_ENV=dev && nodemon ./index.js",
-    "dev": "export NODE_ENV=dev && nodemon ./index.js",
-    "prod": "export NODE_ENV=prod && nodemon ./index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-},
