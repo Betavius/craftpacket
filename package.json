@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Betavius/MCFirstWorks.git"
+    "url": "git+https://github.com/Betavius/craftpacket.git"
   },
   "dependencies": {
     "ejs": "2.5.6",
@@ -31,7 +31,7 @@
   "author": "Betavius",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Betavius/MCFirstWorks/issues"
+    "url": "https://github.com/Betavius/craftpacket/issues"
   },
-  "homepage": "https://github.com/Betavius/MCFirstWorks#readme"
+  "homepage": "https://github.com/Betavius/craftpacket#readme"
 }
