@@ -2,14 +2,14 @@
   "name": "mc",
   "version": "1.0.0",
   "description": "Node",
-  "main": "websocketMainServer.js",
+  "main": "index.js",
   "dependencies": {
     "ws": "^0.4.31"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node websocketMainServer.js",
-    "test": "node websocketMainServer.js"
+    "start": "node index.js",
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
