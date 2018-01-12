@@ -1,1 +1,1 @@
-web: node websocketMainServer.js
+web: node index.js
